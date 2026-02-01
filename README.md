@@ -14,15 +14,15 @@ Features:
 1 IR LEDs. these should work as a TV killer for TV's.
 5 Keys!
 CADModel:
-<img width="1600" height="670" alt="TOP AND BOTTOM v1" src="https://github.com/user-attachments/assets/ccd809ad-5c8f-4d24-87da-dae467a42eeb" />
+
 
 
 It has 2 seperate printed pieces. The base where the PCB sits, and the top cover.
 
 
 Schematic:
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/dc42e26d-059f-4bde-ab0a-734e1a3eec96" />
 
-<img width="831" height="367" alt="HACKCLUB SCHEMATIC" src="https://github.com/user-attachments/assets/3a1e388d-86bb-4865-9545-cd9d704be748" />
 
 Made in KiCAd.
 
@@ -35,7 +35,8 @@ PCB:
 3d file of the PCB (With components =>)
 
 
-<img width="564" height="661" alt="HACKCLUB PCB" src="https://github.com/user-attachments/assets/84f8dc53-8a2d-4403-938e-b3668de6253c" />
+<img width="445" height="561" alt="image" src="https://github.com/user-attachments/assets/5945d136-fe8c-4396-9d7a-9ec8b2e4bfd6" />
+
 
 Here's my PCB! It was made in KiCad.
 
