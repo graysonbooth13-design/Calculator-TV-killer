@@ -30,7 +30,8 @@ Made in KiCAd.
 
 PCB:
 
-<img width="1404" height="758" alt="image" src="https://github.com/user-attachments/assets/ca3db5dc-b005-45ff-96f6-4c66b1146857" />
+<img width="524" height="635" alt="image" src="https://github.com/user-attachments/assets/1b0ed64b-2747-4b52-9045-7860caa8c3e4" />
+
 
 3d file of the PCB (With components =>)
 
