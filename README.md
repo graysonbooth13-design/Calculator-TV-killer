@@ -80,6 +80,8 @@ Here should be everything you need to make this hackpad
 
 1x Case (2 printed parts)
 
+1x Usb-C to Usb-C lanyard for powering from https://www.amazon.com/Keychain-Braided-Charging-1Phone17-Samsung/dp/B0FP2BCDQ1/ref=sxin_17_pa_sp_search_thematic_sspa?content-id=amzn1.sym.5231008f-5c21-4605-8aa6-0f972be4695a%3Aamzn1.sym.5231008f-5c21-4605-8aa6-0f972be4695a&crid=3N8Y5EPMYNL96&cv_ct_cx=ubc%2Bto%2Busb%2BC%2Blanyard&keywords=ubc%2Bto%2Busb%2BC%2Blanyard&pd_rd_i=B0FP2BCDQ1&pd_rd_r=6d916ff4-6b80-4af8-bc8b-3fb0e9020468&pd_rd_w=ng4kY&pd_rd_wg=9J2U8&pf_rd_p=5231008f-5c21-4605-8aa6-0f972be4695a&pf_rd_r=WZ1DZ9E80GKY01PMP3PK&qid=1770691255&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=ubc%2Bto%2Busb%2Bc%2Blanyard%2Caps%2C171&sr=1-3-5faae643-5df9-4d93-aa19-0af3528c0662-spons&aref=JULWEiW8oB&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1 
+
 JOKE TIMMEEEEEE
 What happenes when you eat tinfoil
 
