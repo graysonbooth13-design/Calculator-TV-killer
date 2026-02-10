@@ -1,0 +1,138 @@
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
+#include <Keypad.h>
+#include <IRremote.h>
+
+#define SCREEN_WIDTH 128
+#define SCREEN_HEIGHT 64
+
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
+
+const byte ROWS = 4;
+const byte COLS = 4;
+
+char keys[ROWS][COLS] = {
+  {'1','2','3','+'},
+  {'4','5','6','-'},
+  {'7','8','9','*'},
+  {'D','0','=','/'}
+};
+
+byte rowPins[ROWS] = {2, 3, 4, 5};
+byte colPins[COLS] = {6, 7, 8, 9};
+
+Keypad keypad = Keypad(makeKeymap(keys), rowPins, colPins, ROWS, COLS);
+
+const int irPin = 10;
+IRsend irsend(irPin);
+
+String input = "";
+float num1 = 0;
+float num2 = 0;
+char operation = 0;
+
+void drawScreen(String top, String bottom) {
+  display.clearDisplay();
+
+  display.setTextSize(2);
+  display.setTextColor(WHITE);
+
+  display.setCursor(0, 10);
+  display.print(top);
+
+  display.setCursor(0, 40);
+  display.print(bottom);
+
+  display.display();
+}
+
+void setup() {
+  if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) {
+    while(true);   // stop if OLED not found
+  }
+
+  display.clearDisplay();
+  drawScreen("Calculator", "Ready");
+  delay(1500);
+}
+
+void sendTVPower() {
+  drawScreen("IR Signal", "TV OFF!");
+
+  // Common NEC code (change later for your TV)
+  irsend.sendNEC(0x20DF10EF, 32);
+
+  delay(1000);
+}
+
+void calculate() {
+  num2 = input.toFloat();
+  float result = 0;
+
+  switch(operation) {
+    case '+':
+      result = num1 + num2;
+      break;
+    case '-':
+      result = num1 - num2;
+      break;
+    case '*':
+      result = num1 * num2;
+      break;
+    case '/':
+      if (num2 != 0)
+        result = num1 / num2;
+      else {
+        drawScreen("Error", "Divide by 0");
+        delay(1500);
+        input = "";
+        return;
+      }
+      break;
+  }
+
+  input = String(result);
+  drawScreen("Result:", input);
+}
+
+void loop() {
+  char key = keypad.getKey();
+
+  if (key) {
+
+    // DIGITS
+    if (key >= '0' && key <= '9') {
+      input += key;
+      drawScreen("Input:", input);
+    }
+
+    // OPERATORS
+    else if (key == '+' || key == '-' || key == '*' || key == '/') {
+      num1 = input.toFloat();
+      operation = key;
+      input = "";
+
+      String op(1, operation);
+      drawScreen("Operator:", op);
+    }
+
+    // EQUALS
+    else if (key == '=') {
+      calculate();
+    }
+
+    // DEL KEY
+    else if (key == 'D') {
+      input = "";
+      num1 = 0;
+      num2 = 0;
+      operation = 0;
+
+      drawScreen("Cleared", "");
+
+      // ALSO SEND TV OFF IR
+      sendTVPower();
+    }
+  }
+}
