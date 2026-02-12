@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R2";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"39 ohms";;;
+2;"Q1";"TO-92L_Inline";1;"NPN";;;
+3;"SW/1,SW3,SW0,SW-1,SW+1,SW4,SW6,SW_DEL1,SW=1,SW8,SW*1,SW9,SW7,SW2,SW1,SW5";"SW_Cherry_MX_1.00u_PCB";16;"SW_Push";;;
+4;"D9,D12,D6,D2,D14,D4,D11,D15,D10,D16,D3,D13,D17,D8,D7,D18";"DIOAD753W49L380D172B";16;"1N4148";;;
+5;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"4.7 Kohms";;;
+6;"Brd1";"MODULE_DM-OLED096-636";1;"SSD1306";;;
+7;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
+8;"D1";"LED_D5.0mm_IRGrey";1;"Super-bright 5mm IR LED - 940nm";;;
