@@ -50,9 +50,15 @@ I might add more in the future! That's it for now
 
 BOM:
 
-1;"D1,D4,D3,D2";"LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm";4;"SK6812MINI";;;
-2;"SW1,SW3,SW5,SW2,SW4";"SW_Cherry_MX_1.00u_PCB";5;"SW_Push";;;
-3;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D18,D8,D7,D9,D14,D2,D4,D6,D12,D17,D10,D3,D13,D11,D15,D16";"DIOAD753W49L380D172B";16;"1N4148";;;
+2;"SW5,SW2,SW1,SW7,SW3,SW/1,SW0,SW-1,SW6,SW_DEL1,SW=1,SW+1,SW4,SW9,SW*1,SW8";"SW_Cherry_MX_1.00u_PCB";16;"SW_Push";;;
+3;"Q1";"TO-92L_Inline";1;"NPN";;;
+4;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"4.7 Kohms";;;
+5;"R2";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"39 ohms";;;
+6;"Brd1";"MODULE_DM-OLED096-636";1;"SSD1306";;;
+7;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
+8;"D1";"LED_D5.0mm_IRGrey";1;"Super-bright 5mm IR LED - 940nm";;;
 
 (Above is the CSV version of the BOM and below is just normal)
 
