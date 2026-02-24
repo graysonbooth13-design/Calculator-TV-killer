@@ -21,7 +21,7 @@ It has 2 seperate printed pieces. The base where the PCB sits, and the top cover
 
 
 Schematic:
-<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/dc42e26d-059f-4bde-ab0a-734e1a3eec96" />
+<img width="941" height="668" alt="image" src="https://github.com/user-attachments/assets/5741f71d-4adc-42bc-b2bf-9df85515b4d0" />
 
 
 Made in KiCAd.
@@ -30,23 +30,18 @@ Made in KiCAd.
 
 PCB:
 
-<img width="524" height="635" alt="image" src="https://github.com/user-attachments/assets/1b0ed64b-2747-4b52-9045-7860caa8c3e4" />
+<img width="496" height="650" alt="image" src="https://github.com/user-attachments/assets/b48a6c9e-23d0-45f4-bfa4-b6e05815aa2a" />
 
 
 3d file of the PCB (With components =>)
 
 
-<img width="445" height="561" alt="image" src="https://github.com/user-attachments/assets/5945d136-fe8c-4396-9d7a-9ec8b2e4bfd6" />
+<img width="481" height="661" alt="image" src="https://github.com/user-attachments/assets/97847130-1d1e-4079-bbd9-273c770ab9ee" />
 
 
 Here's my PCB! It was made in KiCad.
 
 
-
-Firmware Overview
-This hackpad uses QMK firmware for everything.
-
-I might add more in the future! That's it for now
 
 BOM:
 
