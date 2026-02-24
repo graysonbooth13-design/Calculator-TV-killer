@@ -86,8 +86,6 @@ Here should be everything you need to make this hackpad
 
 1x Case (2 printed parts)
 
-1x Usb-C to Usb-C lanyard for powering $5.50
-
 Links to parts:
 
 (Key switches: https://www.amazon.com/Fejwlvs-Pre-Lubricated-Dustproof-Mechanical-Keyboards、MX/dp/B0GFLWMHY3/ref=sr_1_5_sspa?crid=3TJCBFA8PGTQK&dib=eyJ2IjoiMSJ9.MUELtzarVPh1NqYa3EK1EJX_g7YVVKb-c7MwhJsWGQ344GIhIl-PX6bq-dzCIrdG2ZZSXJkA5gzC0x911H3jToB145t_VOCoupObny0bRJfZM-_c-W2LrwPkR_oeFhJsg147z1ndf54UBGYbY7ICptbjB0E-_0nWCnNexu8NyoJ7gpnpGRNZTVOjRBUkvVUtIj_MfOLu_XL7Y48IlwUBEG8ISojdYuzAm5yTf8BuM1A.fPJX89Ir0riDGDDwBn1CHYfFr8JJkA3AthyHhh7_-Gg&dib_tag=se&keywords=Cherry%2BMX%2BSwitches%2Bassortment&qid=1770771376&sprefix=cherry%2Bmx%2Bswitches%2Bassortment%2Caps%2C311&sr=8-5-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1)
@@ -103,8 +101,6 @@ Links to parts:
 (Resistors: https://www.amazon.com/ALLECIN-4W-Film-Resistor-Kit/dp/B0CDWW5BFH/ref=sr_1_2_sspa?crid=2GFJNXM111L61&dib=eyJ2IjoiMSJ9.QqtzmCG7CKt6OW1fHgTb26uI1Fk5beBArSayNzxiB8Q5PfdVBH_fHO-i8Oq2qY-fWR7yyRFHSOeC2RmG0E7w0mtYXMe7donOE8TLqFJXOTNzKCJuCvEQlzEzyaf3O-5D_cGpYC_4Fr3yk3Cr-o6ynATg4hoUh2RQ702TuOH8x5eLmKRUgMbPIwMs_D7sSJRQNzIp690U9bqkzdZqwfkoHmcEW4ZQApPpl7A3RfpMR0I.rNj68d3atHfDnVFBy4if--2BnhPglSZ4rxG2vOnEO3s&dib_tag=se&keywords=resistor%2Bkit&qid=1770772812&sprefix=resistorr%2Bkit%2Caps%2C245&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 
 (Transistors: https://www.amazon.com/ALLECIN-BJT-Transistor-Kit-Transistors/dp/B0C1V82313/ref=sr_1_6_sspa?adgrpid=185130291583&dib=eyJ2IjoiMSJ9.VsgPg0CpoSmLDBqmaiKemioTeubimeA5gbMHrCVETlLHuISg-KQ_TrgB12GRq8EUaYy89mM0c8-gk-RRM7sUZ8OY_KPwAymbrb3ne8DceQ6rNBHwQu6SpnO7aX1fF-uOq3RHPGw6mCcCi4gI_n7mZHaYhRP6ijxiwM2Nf_gKmGpQ-FS1_OmSGLsohkzApgw1RSXm4t1kRg-nTRCBaIXqIqptj6rTDNmtVQwazBJiD4g.agcjYWhGehzE-07sqCxWXgNTTte9UZ4l36FKaob2p5g&dib_tag=se&hvadid=779721006957&hvdev=c&hvexpln=0&hvlocphy=1015431&hvnetw=g&hvocijid=13743219906590360801--&hvqmt=e&hvrand=13743219906590360801&hvtargid=kwd-323540961971&hydadcr=24632_13858459_8069&keywords=2n2222a+npn+transistor&mcid=a2ab655ea30438a0a56edb22fa9e6f95&qid=1770773008&sr=8-6-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1)
-
-(Usb-C to Usb-C: https://www.amazon.com/Keychain-Braided-Charging-1Phone17-Samsung/dp/B0FP2BCDQ1?th=1)
 
 JOKE TIMMEEEEEE
 What happenes when you eat tinfoil
